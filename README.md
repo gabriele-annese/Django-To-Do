@@ -1,2 +1,2 @@
 # Django-To-Do
-To-do application
+This is a to-do application developed with python and Django
